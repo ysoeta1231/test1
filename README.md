@@ -3,6 +3,6 @@ test1
 
 githubtest
 
-##ƒƒ“ƒo[
+##member
 
 *testmember
